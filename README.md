@@ -10,7 +10,7 @@ The lectures cover foundational concepts and mathematical formulations in machin
 
 ## 📺 유튜브 강의 링크 / YouTube Video Link
 
-- [👉 강의 보러 가기 / Watch the lecture series]([https://www.youtube.com/@servusiamtaey])
+- [👉 강의 보러 가기 / Watch the lecture series](https://www.youtube.com/@servusiamtaey)
 
 ---
 
