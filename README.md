@@ -41,7 +41,7 @@ The lectures cover foundational concepts and mathematical formulations in machin
 
 ## 📬 문의 및 피드백 / Contact & Feedback
 
-- 질문이나 제안은 [Issues](https://github.com/PythonToGo/ML_lecture_from_Taey/issues)로 남겨주세요.  
-  Leave questions or feedback on the [Issues](https://github.com/PythonToGo/ML_lecture_from_Taey/issues) page.
+- 질문이나 제안은 [Issues](https://github.com/PythonToGo/learn_ML_DL_with_Taey/issues)로 남겨주세요.  
+  Leave questions or feedback on the [Issues](https://github.com/PythonToGo/learn_ML_DL_with_Taey/issues) page.
 - 강의 및 노트는 지속적으로 업데이트될 예정입니다.  
   More content will be added and updated continuously.
