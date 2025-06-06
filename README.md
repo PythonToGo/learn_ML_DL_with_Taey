@@ -34,6 +34,8 @@ The lectures cover foundational concepts and mathematical formulations in machin
 | ✅ 7주차 / Week 7 | Algorithmic Regularization, Early Stopping |
 | ✅ 8주차 / Week 8 | Support Vector Machine (SVM), Nonlinear Features and Kernels, Neural Networks |
 | ✅ 9주차 / Week 9 | Neural Networks |
+| -----------------|--------------------------------------------------|
+| ✅ 10주차 / Week 9 | Optimization Tasks |
 
 
 ---
