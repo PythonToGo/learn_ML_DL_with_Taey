@@ -35,7 +35,9 @@ The lectures cover foundational concepts and mathematical formulations in machin
 | ✅ 8주차 / Week 8 | Support Vector Machine (SVM), Nonlinear Features and Kernels, Neural Networks |
 | ✅ 9주차 / Week 9 | Neural Networks |
 | -----------------|--------------------------------------------------|
-| ✅ 10주차 / Week 9 | Optimization Tasks |
+| ✅ 10주차 / Week 10 | Sparse Reconstruction  |
+| ✅ 11주차 / Week 11 | Invervse Problems as optimization tasks |
+| ✅ 12주차 / Week 12 | Learning to solve inverse problems end-to-end |
 
 
 ---
