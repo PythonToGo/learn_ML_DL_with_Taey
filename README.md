@@ -32,7 +32,7 @@ The lectures cover foundational concepts and mathematical formulations in machin
 | ✅ 5주차 / Week 5 | Logistic Regression |
 | ✅ 6주차 / Week 6 | Statistical Learning Theory, Algorithm Stability |
 | ✅ 7주차 / Week 7 | Algorithmic Regularization, Early Stopping |
-| ✅ 8주차 / Week 8 | Support Vector Machine (SVM), Nonlinear Features and Kernels, Neural Networks |
+| ✅ 8주차 / Week 8 | Support Vector Machine (SVM), Nonlinear Features and Kernels |
 | ✅ 9주차 / Week 9 | Neural Networks |
 | -----------------|--------------------------------------------------|
 | ✅ 10주차 / Week 10 | Sparse Reconstruction  |
